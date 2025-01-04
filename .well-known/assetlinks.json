@@ -5,9 +5,10 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.xo.xo",
+      "package_name": "app.thexo.customerdev",
       "sha256_cert_fingerprints": [
-        "25:8D:62:F5:11:57:EC:0B:A6:E5:10:A1:63:1E:A4:40:16:3A:BD:1E:97:11:CB:25:5A:AB:69:69:84:68:7B:FC"
+        "25:8D:62:F5:11:57:EC:0B:A6:E5:10:A1:63:1E:A4:40:16:3A:BD:1E:97:11:CB:25:5A:AB:69:69:84:68:7B:FC",
+        "65:47:AD:CC:85:89:B4:9A:62:31:19:65:F6:4E:0D:DD:76:D6:3D:B7:1E:3B:45:75:A3:AF:A6:D4:7C:95:4E:2F"
       ]
     }
   }
